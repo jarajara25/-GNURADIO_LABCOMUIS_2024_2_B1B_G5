@@ -1,2 +1,2 @@
-# -GNURADIO_LABCOMUIS_2024_2_B1B_G5
-#Juan Sebastian Jaramillo Diaz 2212273
+# GNURADIO_LABCOMUIS_2024_2_B1B_G5
+Juan Sebastian Jaramillo Diaz 2212273
