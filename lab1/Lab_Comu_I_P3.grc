@@ -57,7 +57,7 @@ blocks:
     coordinate: [296, 12.0]
     rotation: 0
     state: disabled
-- name: amplitud
+- name: amplitude
   id: variable_qtgui_range
   parameters:
     comment: ''
@@ -95,7 +95,7 @@ blocks:
   parameters:
     affinity: ''
     alias: ''
-    amp: amplitud
+    amp: amplitude
     comment: ''
     freq: frequency
     maxoutbuf: '0'
