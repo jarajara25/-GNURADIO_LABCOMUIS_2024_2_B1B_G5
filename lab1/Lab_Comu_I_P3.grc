@@ -44,7 +44,7 @@ blocks:
     bus_structure: null
     coordinate: [528, 12.0]
     rotation: 0
-    state: true
+    state: disabled
 - name: frequency
   id: variable
   parameters:
@@ -57,7 +57,7 @@ blocks:
     coordinate: [296, 12.0]
     rotation: 0
     state: disabled
-- name: frequency
+- name: amplitud
   id: variable_qtgui_range
   parameters:
     comment: ''
@@ -66,10 +66,10 @@ blocks:
     min_len: '200'
     orient: QtCore.Qt.Horizontal
     rangeType: float
-    start: -samp_rate/2
-    step: '100'
-    stop: samp_rate/2
-    value: '0'
+    start: 0
+    step: '1'
+    stop: 5
+    value: '1'
     widget: counter_slider
   states:
     bus_sink: false
