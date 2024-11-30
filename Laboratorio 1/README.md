@@ -5,4 +5,6 @@ A continuación, se realizaron varias pruebas adicionales en GNU Radio para fami
 
 ![image](https://github.com/user-attachments/assets/3dd37f75-c41c-47f0-9dcd-a0bbbcc74b79)
 
+En la parte (b) se analizaron distintos factores de los canales de transmisión, comparando la amplitud de la señal medida en el osciloscopio con la generada en el PC. Se utilizaron cables de diferentes longitudes, con distintos niveles de atenuación y a diversas frecuencias, con el fin de estudiar cómo los cambios en el canal afectan las pérdidas de potencia de la señal. En la imagen se puede observar una compartiva entre las señales a cierta amplitud generada y las amplitudes medidas a diferentes frecuencias
+![image](https://github.com/user-attachments/assets/9920f71e-aca2-4a16-be1b-fa8173e46a40)
 
