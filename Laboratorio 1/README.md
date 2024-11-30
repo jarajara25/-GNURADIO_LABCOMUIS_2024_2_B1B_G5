@@ -1,1 +1,2 @@
-jakjdkajsdkasjdks
+En esta práctica, comenzamos el curso de Comunicaciones 1 creando un repositorio en GitHub para almacenar los archivos utilizados a lo largo del curso. Además, desarrollamos nuestro primer programa en GNU Radio, el cual simula una señal sinusoidal, muestra su gráfica en el dominio del tiempo y también presenta su espectro en el dominio de la frecuencia.
+![image](https://github.com/user-attachments/assets/869f4330-7aac-4840-ba74-dc3f4088ecf9)
