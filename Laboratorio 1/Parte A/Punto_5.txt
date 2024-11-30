@@ -1,0 +1,1 @@
+Como se muestra en la imagen, con una relación de 5 se toma una menor cantidad de muestras por periodo por lo cual la representación de la señal empieza a mostrar ciertos efectos de distorsión pues no captura completamente todos los detalles finos de la señal original.
