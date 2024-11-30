@@ -2,7 +2,7 @@ options:
   parameters:
     author: ''
     catch_exceptions: 'True'
-    category: '[Modulos_Mariana_Daiver]'
+    category: '[Modulos3]'
     cmake_opt: ''
     comment: ''
     copyright: ''
